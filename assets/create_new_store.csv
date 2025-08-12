@@ -1,0 +1,3 @@
+﻿Store Name,Store Preferred Merchant ID,Store Address,Store Postcode,Store City,Store State,Store Terminal Count,Store Terminal ID,Store PIC Name,Store PIC Email,Store PIC Mobile,Store Bank,Store Bank Account Name,Store Bank Account Number,Store Bank Account Type,Store Device
+Store A,merchant_1,1 JALAN IPOH 1,40000,Shah Alam,Selangor,2,123456,John Doe,john.doe@email.com,123456789,MALAYAN BANKING,Store A,1234567890,savings,2
+Store B,merchant_2,2 JALAN IPOH 1,40001,Shah Alam,Selangor,1,456789,John Doe,john.doe@email.com,123456790,MALAYAN BANKING,Store B,1234567891,current,1
