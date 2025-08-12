@@ -16,7 +16,7 @@ This Onboarding Agent is open to participating Merchant Requisition Partners (MR
 - **MCP Client**: A compatible client that supports the Model Context Protocol (MCP), such as:
   - Claude Desktop  
   - Cursor  
-  - Qwen  
+  - Qwen Desktop
   - Cherry Studio  
   - Any other MCP-compatible client
 
@@ -38,7 +38,7 @@ This guide explains how to connect to the **Fiuu Onboarding Agent** from various
 | :----------------------------- | :--------------- | :--------------------------------------------------------------------------- |
 | **Claude Desktop** | STDIO            | Go to `Settings` → `Developer` → `Edit` and update `claude_desktop_config.json`. |
 | **Cursor** | STDIO or SSE            | Go to `Settings` → `Tools & Integrations ` → `Add Custom MCP` and update `mcp.json`.        |
-| **Cherry Studio / Qwen / Others**| STDIO or SSE     | Refer to their specific settings documentation for adding an MCP server.     |
+| **Cherry Studio / Qwen Desktop / Others**| STDIO or SSE     | Refer to their specific settings documentation for adding an MCP server.     |
 
 
 ---
@@ -90,7 +90,7 @@ Use this if your client supports SSE (Server-Sent Events) connections.
 > **Note:** Not all clients support SSE mode. Use STDIO if SSE is not available.
 
 
-## 🛠️ Tools
+## 🛠️ Agentic Tools
 
 ### 🧰 Available Toolsets
 
