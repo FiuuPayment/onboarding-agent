@@ -1,4 +1,4 @@
-# Onboarding MCP 
+# Onboarding Agent
 
 A model context protocol (MCP) server provided by Fiuu that provides onboarding of submerchants easeness for our MRP using AI assistants. 
 
@@ -6,7 +6,7 @@ A model context protocol (MCP) server provided by Fiuu that provides onboarding 
 
 ## 📘 Overview  
 
-This MCP service is open to participating Merchant Requisition Partners (MRP) and Partners/Facilitators (PF) of Fiuu. When MRP/PF participates in the program, they are provisioned with a service account which is meant to be for server-to-server communication. This account has a unique email and secret key for authentication. They'll receive these details in a welcome email sent from support@fiuu.com. Features included is meant to follow the Merchant Onboarding API. For further details, can be found here: [Onboarding API Documentation](https://fiuu-onboarding.readme.io/reference/introduction) 
+This Onboarding Agent is open to participating Merchant Requisition Partners (MRP) and Partners/Facilitators (PF) of Fiuu. When MRP/PF participates in the program, they are provisioned with a service account which is meant to be for server-to-server communication. This account has a unique email and secret key for authentication. They'll receive these details in a welcome email sent from support@fiuu.com. Features included is meant to follow the Merchant Onboarding API. For further details, can be found here: [Onboarding API Documentation](https://fiuu-onboarding.readme.io/reference/introduction) 
 
 ## 📋 Prerequisites   
 
